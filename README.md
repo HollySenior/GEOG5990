@@ -13,3 +13,20 @@ The CDRC Residential Mobility Index (RMI) measures the proportion of households 
 The CDRC Access to Health Assets and Hazards (AHAH)(Version 4) was also used in this analysis as it is a multi-dimensional index representing how 'healthy' neighbourhoods are in terms of access to certain retail environments (fast food outlets, pubs, gambling outlets), health services (GPs, hospitals, dentists, leisure facilities), air quality and physical environment (bue and green spaces) (CDRC, 2024a). It consists of a total of 14 inputs, making up these 4 domains. The data is represented across 2021 LSOAs in England. The sources in the dataset are high quality and of low bias (CDRC, 2024a).
 Both 2011 and 2021 LSOA datasets were downloaded from the Open Geography Portal and clipped to Manchester and are included in the GitHub repository. 
 
+References:
+
+Bailey, N., Kearns, A. and Livingston, M. 2011. Place attachment in deprived neighbourhoods: The impacts of population turnover and social mix. Housing Studies. 27(2), pp.208-231.
+
+Burrell, K. 2016. Lost in the ‘churn’? Locating neighbourliness in a transient neighbourhood. Environment and Planning A: Economy and Space. 48(8), pp.1599-1616.
+
+CDRC. 2024a. Access to Healthy Assets & Hazards (AHAH). [Online]. [Accessed April, 24]. Available from: https://data.cdrc.ac.uk/dataset/access-healthy-assets-hazards-ahah
+
+CDRC. 2024b. CDRC Residential Mobility Index. [Online]. [Accessed April, 24]. Available from: https://data.cdrc.ac.uk/dataset/cdrc-residential-mobility-index
+
+Coulton, C., Theodos, B. and Turner, M.A. 2012. Residential mobility and neighbourhood change: Real neighbourhoods under the microscope. Cityscape. 14(3), pp.55-89.
+
+Rabe, B. and Taylor, M. 2010. Residential mobility, quality of neighbourhood and
+life course events. Journal of the Royal Statistical Society Series A: Statistics in Society. 173(3), pp.531-555.
+
+
+
